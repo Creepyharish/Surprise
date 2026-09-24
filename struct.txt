@@ -1,0 +1,41 @@
+your-project/
+│
+├── birthday_website_jpeg.html
+│
+├── photos/
+│   ├── hero.jpeg
+│   ├── goof1.jpeg
+│   ├── goof2.jpeg
+│   ├── goof3.jpeg
+│   ├── goof4.jpeg
+│   ├── goof5.jpeg
+│   ├── goof6.jpeg
+│   ├── us1.jpeg
+│   ├── us2.jpeg
+│   ├── us3.jpeg
+│   ├── us4.jpeg
+│   ├── us5.jpeg
+│   └── us6.jpeg
+│
+└── guests/
+    ├── guest1.jpeg
+    ├── guest1.mp3
+    ├── guest2.jpeg
+    ├── guest2.mp3
+    └── ... through guest12
+
+
+
+
+                 TOP
+              ↓
+        0% ─────────
+              ↑
+       30%  ← focus here
+              ↑
+       50%  ← center
+              ↑
+       70%
+              ↑
+      100% ─────────
+            BOTTOM
